@@ -1,0 +1,38 @@
+
+* {
+	z-index: 1;
+}
+
+.background-body {
+	background-color: #363636;
+}
+
+.bg-primary {
+	background-color: #811818 !important;
+}
+
+.btn-primary {
+	background-color: #811818 !important;
+	border-color: #811818 !important;
+}
+
+.background {
+	z-index: 0;
+	position: fixed;
+	min-width: 100vw;
+	min-height: 100%;
+}
+
+.page-item.active .page-link {
+	background-color: #811818 !important;
+	border-color: #811818 !important;
+	color: white !important;
+}
+
+.popup-border {
+	border: 1px solid #811818 !important;
+}
+
+.disabled-input {
+	pointer-events: none;
+}
