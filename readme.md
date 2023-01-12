@@ -10,13 +10,13 @@ display only the desired ones for them. With this system users can have a centra
 and managed so they can work more efficiently.
 
 More specificaly users can:
-	- Submit issues
-	- Login as administrators
-	- As Admis they also can:
-		- See all the issues
-		- Filter issues by state, priority and date
-		- Create reports (.csv) with the given filters
-		- Alter most values of the issues
+- Submit issues
+- Login as administrators
+- As Admis they also can:
+	- See all the issues
+	- Filter issues by state, priority and date
+	- Create reports (.csv) with the given filters
+	- Alter most values of the issues
 
 ## Install and run localy in a testing environment
 
